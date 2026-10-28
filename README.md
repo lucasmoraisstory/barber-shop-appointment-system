@@ -1,6 +1,6 @@
 # Sistema de Agendamento - VIP Barber Shop 💈
 
-Este repositório contém uma interface web moderna e responsiva desenvolvida para o gerenciamento de agendamentos em uma barbearia. O projeto foi estruturado para aplicar conceitos avançados de estilização com foco em interfaces escuras (Dark Mode) e experiência do usuário (UX).
+Criei uma interface web moderna e responsiva desenvolvida para o gerenciamento de agendamentos em uma barbearia. O projeto foi estruturado para aplicar conceitos avançados de estilização com foco em interfaces escuras (Dark Mode) e experiência do usuário (UX).
 
 ###  Tecnologias Utilizadas
 - HTML5 (Estruturação semântica de formulários de captura e validação de dados)
