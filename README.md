@@ -10,4 +10,4 @@ Este repositório contém uma interface web moderna e responsiva desenvolvida pa
 - Formulário otimizado para agendamento de clientes com validação nativa de campos.
 - Menu dinâmico para seleção de categorias de serviços de estética masculina.
 - Design responsivo integrado e adaptado para dispositivos móveis e desktops.
-# nail-design-customer-register
+
